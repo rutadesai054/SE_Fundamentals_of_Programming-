@@ -1,0 +1,13 @@
+                    *Structure*
+-->    The struct statement is used to define it.	
+-->    A separate memory location is assigned.
+-->    Change in one does not affect another.	
+-->    They are used to store multiple values.	
+-->    The size of the structure is the sum of all entities.	
+
+                    *Union*
+-->    Union keyword is used to define it.
+-->    Single memory is allotted to all.
+-->    Change in one affects other entities.
+-->    Stores on value at a time.
+-->    The size of the union is the size of the largest entity.
